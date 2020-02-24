@@ -15,11 +15,26 @@ body{
 	width: 10cm;
 }
 
-.btn-link:hover,
-.btn-link:active{
+.btn-link:hover{
 	text-decoration: none;
 }
 
 footer{
 	background-color: black;
+}
+
+@media (max-width: 767px){
+	.wrapp{
+		display: flex;
+		flex-wrap: wrap;stify-content: center !important;
+	}
+
+	.arrang{
+		position: relative;
+		left: 7%;
+	}
+	.rang{
+		position: relative;
+		right: 5.7%;
+	}
 }

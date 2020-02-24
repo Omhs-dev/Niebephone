@@ -23,3 +23,14 @@ input{
 footer{
 	background-color: black;
 }
+
+@media (max-width: 550px){
+	.plonce{
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.flowro{
+		display: flex;
+		flex-wrap: wrap;
+	}
+}
