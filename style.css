@@ -1,0 +1,25 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+
+.omolo{
+	background: url(image/networking.jpg);
+	background-attachment: fixed;
+	background-size: cover;	
+}
+
+.vid{
+	background: url(image/background.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+input{
+	width: 5cm !important;
+	margin: 10px;
+}
+
+footer{
+	background-color: black;
+}

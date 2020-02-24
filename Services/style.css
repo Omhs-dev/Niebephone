@@ -1,0 +1,25 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+
+.finir{
+	background: url(back.jpg);
+}
+
+.rounded-sm{
+	background-color: #282727;
+}
+
+#headingOne{
+	width: 10cm;
+}
+
+.btn-link:hover,
+.btn-link:active{
+	text-decoration: none;
+}
+
+footer{
+	background-color: black;
+}
