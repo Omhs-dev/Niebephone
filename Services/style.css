@@ -22,19 +22,3 @@ body{
 footer{
 	background-color: black;
 }
-
-@media (max-width: 767px){
-	.wrapp{
-		display: flex;
-		flex-wrap: wrap;stify-content: center !important;
-	}
-
-	.arrang{
-		position: relative;
-		left: 7%;
-	}
-	.rang{
-		position: relative;
-		right: 5.7%;
-	}
-}
